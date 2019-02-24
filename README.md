@@ -7,6 +7,7 @@
 
 ----------------------------------------------
 ###Picture of bamazon welcome with ID, Product name and price.
+----------------------------------------------
 ![bamazon Screenshot](./images/bamazon.png)
 
 
