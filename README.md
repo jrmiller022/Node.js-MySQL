@@ -1,8 +1,9 @@
 # Node.js-MySQL
 
 ## Created a database in MySQL workbench that created products. Those products included how many items, prices and item numbers. 
-
+---------------------------------------------
 Screenshot of my database setup with table.
+---------------------------------------------
 ![Database Screenshot](./images/database3.png)
 
 ----------------------------------------------
@@ -11,12 +12,9 @@ Picture of bamazon welcome with ID, Product name and price.
 ![bamazon Screenshot](./images/bamazon.png)
 
 ----------------------------------------------
-
-----------------------------------------------
 Picture of option of item you would like to buy.
-![bamazon Screenshot](./images/bamazon2.png)
-
 ----------------------------------------------
+![bamazon Screenshot](./images/bamazon2.png)
 
 ----------------------------------------------
 Picture of how many you would like to buy after selecting the item.
