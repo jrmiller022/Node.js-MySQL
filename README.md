@@ -18,10 +18,12 @@ Picture of option of item you would like to buy.
 
 ----------------------------------------------
 Picture of how many you would like to buy after selecting the item.
+----------------------------------------------
 ![bamazon Screenshot](./images/bamazon3.png)
 
 ----------------------------------------------
 Picture of what comment you get when the item is out of stock. When "out of stock you have to try back later"
+----------------------------------------------
 ![bamazon Screenshot](./images/bamazon4.png)
 
 
